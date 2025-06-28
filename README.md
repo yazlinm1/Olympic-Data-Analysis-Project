@@ -18,10 +18,5 @@ This ![YouTube Tutorial](https://www.youtube.com/watch?v=IaA9YNlg5hM&list=PLVbWJ
 
 
 # Tech Stack
-Azure Data Factory – Data ingestion
-Azure Data Lake Storage Gen2 – Data storage
-Azure Databricks (PySpark) – Data transformation
-Azure Key Vault – Secret key management
-Azure Synapse Analytics – Data warehousing and querying
-Power BI – Data visualization
+Azure Data Factory – Data ingestion, Azure Data Lake Storage Gen2 – Data storage, Azure Databricks (PySpark) – Data transformation, Azure Key Vault – Secret key management, Azure Synapse Analytics – Data querying and visualizing
 
